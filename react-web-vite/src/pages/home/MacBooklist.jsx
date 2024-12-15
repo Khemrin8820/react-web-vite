@@ -1,6 +1,6 @@
 const macbookList = [
   {
-    "img": "https://crdms.images.consumerreports.org/prod/products/cr/models/413626-15-to-16-inch-laptops-apple-macbook-air-15-inch-2024-m3-8gb-512gb-10038952.png",
+    "img": "https://m.media-amazon.com/images/I/71h-tsPzk5L._AC_UY327_FMwebp_QL65_.jpg",
     "name": "Apple 2024 MacBook Air 15-inch Laptop",
     "desc": "Apple 2024 MacBook Air 15-inch Laptop with M3 chip: Built for Apple Intelligence, 15.3-inch Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, Backlit Keyboard,",
     "price":1089.94

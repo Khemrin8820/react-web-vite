@@ -1,0 +1,50 @@
+.card {
+  background-color: skyblue;
+  height: 500px;
+  border-radius: 10px;
+  position: relative;
+}
+.image {
+  height: 50%;
+  width: 100%;
+}
+.image img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  scale: 0.8;
+}
+.desc {
+  padding: 5px 10px;
+  height: 50%;
+}
+.btnAddCard {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.prices {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+.prices p,
+.prices h5,
+.prices h4 {
+  font-size: 15px;
+  font-weight: 400;
+  margin-right: 0.5rem;
+}
+.prices p {
+  color: rgba(0, 0, 0, 0.536);
+  text-decoration: line-through;
+  margin-right: 0.3rem;
+}
+.prices h5 {
+  font-weight: 700;
+}
+.prices h4 {
+  font-weight: 400;
+}
