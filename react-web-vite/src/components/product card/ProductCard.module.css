@@ -48,3 +48,8 @@
 .prices h4 {
   font-weight: 400;
 }
+.titleIcon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
